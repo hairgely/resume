@@ -5,7 +5,7 @@ favicon: /assets/img/share-972389_960_720.png
 baseurl: https://hairgely.github.io/resume
 url: https://hairgely.github.io/resume
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: #UA-63653234-1
 
 # Build settings
 markdown: kramdown
