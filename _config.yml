@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: hairgely's CV
+description: hairgely's CV
+favicon: /assets/img/share-972389_960_720.png
+baseurl: https://hairgely.github.io/resume
+url: https://hairgely.github.io/resume
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,16 +14,17 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: hairgely
+  title: Developer
+  address: Seoul
+  email: hairgely@gmail.com
+  link: https://hairgely.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: hairgely
+  facebook: hairgely
+  linkedin: hairgely
+  twitter: hairgely
+  gavatar: /resumecard/assets/img/share-972389_960_720.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
