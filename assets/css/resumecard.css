@@ -142,11 +142,11 @@ hr {
 }
 
 .timeline > li {
-    margin-bottom: 20px;
     position: relative;
+    margin-left: 67px;
 }
     /* 
-    margin-left: 67px;
+    margin-bottom: 20px;
     */
 
 .timeline > li:before,
