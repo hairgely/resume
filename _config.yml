@@ -51,23 +51,31 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+      organization: 동국대학교 대학원
+      location: Seoul, Korea
+      degree: 
+      major: 컴퓨터공학과
+      started: 2011
+      duration: (2011 - 2013)
+      description: 
+    - education2:
+      organization: 관동대학교
+      location: Gangneung, Korea
+      degree: 
+      major: 경제학과
+      started: 2000
+      duration: (2000 - 2006)
+      description: 
+  certificate:
     - language1:
-      name: Chinese
-      proficiency: Native
+      name: 정보처리기사
+      proficiency: 기사
     - language2:
-      name: English
-      proficiency: Professional
+      name: 컴퓨터활용능력
+      proficiency: 2급
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: JLPT
+      proficiency: 2급
   programmingSkills:
     - skill1:
       name: HTML
