@@ -53,70 +53,70 @@ author:
     - project1:
       name: Appboy 기술영업 및 고객 지원 
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2016
       duration: (2016.02 - 2016.12)
       description: 모바일 광고 자동화 솔루션 
     - project11:
       name: 모바일 쿠폰 사이트 
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2016
       duration: (2016.12 - 2016.12)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery 
     - project12:
       name: 방송 서버 모니터링 시스템 
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2016
       duration: (2016.08 - 2016.11)
       description: Logstash, Spring, MyBatis, Oracle, Java, JSP, Jquery 
     - project13:
       name: 이미지 얼굴인식 (프로토타입)
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2016
       duration: (2016.06 - 2016.07)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, MS FaceApi
     - project14:
       name: T-AR (프로토타입)
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2016
       duration: (2016.06 - 2016.07)
       description: Android
     - project14:
       name: ELK (프로토타입)
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2016
       duration: (2016.06 - 2016.07)
       description: ElasticSearch, Logstash, Kibana, AWS
     - project2:
       name: O2O 출장세차 
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2015
       duration: (2015.09 - 2015.11)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery
     - project3:
       name: 추천시스템(프로토타입)
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2015
       duration: (2015.09 - 2015.11)
       description: Apache Spark, Fluentd, Embulk, Logstash, Elasticsearch, Scala, AWS 
     - project4:
       name: 오픈가든
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2015
       duration: (2015.06 - 2015.10)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery  
     - project5:
-      name: 만화1번지
+      name: 만화
       location: Seoul, Korea
-      company: 미디어로그
+      company: 
       started: 2015
       duration: (2015.04 - 2016.12)
       description: 검색서버 - Apache Solr, Fruentd, Mysql<br/> 정산, 통계 서버 - Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch<br/> Front, CMS - Spring, MyBatis, MariaDB, Java, JSP, Jquery<br/> Android 
@@ -223,7 +223,7 @@ author:
 #      proficiency: Limit
   companyHistory:
     - company1:
-      name: 미디어로그 (데이콤멀티미디어인터넷)
+      name: 현재 직장
       proficiency: 2015.04 - 2016.12
     - company2:
       name: 포위드닷컴
