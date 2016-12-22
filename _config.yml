@@ -74,6 +74,23 @@ author:
       started: 2014
       duration: 
       description: 
+  academicAbility:
+    - education1:
+      organization: 동국대학교 대학원
+      location: Seoul, Korea
+      degree: 
+      major: 컴퓨터공학과
+      started: 2011
+      duration: (2011 - 2013)
+      description: 
+    - education2:
+      organization: 관동대학교
+      location: Gangneung, Korea
+      degree: 
+      major: 경제학과
+      started: 2000
+      duration: (2000 - 2006)
+      description: 
   languages:
     - language1:
       name: Chinese
