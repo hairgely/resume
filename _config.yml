@@ -101,19 +101,19 @@ author:
     - language3:
       name: JLPT
       proficiency: 2Бо
-  programmingSkills:
-    - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
-      percentage: 90%
-    - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
+#  programmingSkills:
+#    - skill1:
+#      name: HTML
+#      percentage: 100%
+#    - skill2:
+#      name: Bootstrap
+#      percentage: 90%
+#    - skill3:
+#      name: JavaScript
+#      percentage: 70%
+#    - skill4:
+#      name: AngularJS
+#      percentage: 70%
+#    - skill5:
+#      name: Java/Java EE
+#      percentage: 90%
