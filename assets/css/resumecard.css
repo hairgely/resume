@@ -144,7 +144,9 @@ hr {
 .timeline > li {
     margin-bottom: 20px;
     position: relative;
+    /* 
     margin-left: 67px;
+    */
 }
 
 .timeline > li:before,

@@ -155,13 +155,20 @@ author:
       started: 2013
       duration: (2013.05 - 2014.10)
       description: Apache Lucene, Apache Tika, Spring, Java, JSP, Jquery, Spring, MyBatis, MS-SQL, Spring Batch 
+    - project141:
+      name: 헬스케어 
+      location: Seoul, Korea
+      company: 피앤피소프트
+      started: 2012
+      duration: (2012.01 - 2012.04)
+      description: Android
     - project14:
       name: Android 프로젝트 
       location: Seoul, Korea
       company: 피앤피소프트
       started: 2011
       duration: (2011.02 - 2011.11)
-      description: Pen Touch TV 매뉴얼, 항공기 결제(직원 내부용), 단말기 정보 수집 모듈, 포토잉글리쉬, 위픽보카, 헬스케어, 트렌드온 
+      description: Pen Touch TV 매뉴얼, 항공기 결제(직원 내부용), 단말기 정보 수집 모듈, 포토잉글리쉬, 위픽보카,트렌드온 
     - project15:
       name: 일정관리 및 수업 보조 시스템 
       location: Seoul, Korea
