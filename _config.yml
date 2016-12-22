@@ -68,6 +68,16 @@ author:
     - language3:
       name: Japanese
       proficiency: Limit
+  certificate:
+    - language1:
+      name: 정보처리기사
+      proficiency: 기사
+    - language2:
+      name: 컴퓨터활용능력
+      proficiency: 2급
+    - language3:
+      name: JLPT
+      proficiency: 2급
   programmingSkills:
     - skill1:
       name: HTML2
