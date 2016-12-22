@@ -348,6 +348,23 @@ hr {
 }
 
 .list-strip li:nth-child(even) {
+    background: #4B6F78;
+}
+
+.btn-flat {
+    background: #4B6F78;
+    color: white;
+    font-weight: 300;
+    padding-left: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-right: 20px;
+    box-shadow: 0 5px 0 #a63838;
+    position: relative;
+    margin-bottom: 5px;
+}
+/*
+.list-strip li:nth-child(even) {
     background: #BA4E4E;
 }
 
@@ -363,7 +380,7 @@ hr {
     position: relative;
     margin-bottom: 5px;
 }
-
+*/
 .btn-flat:hover,
 .btn-flat:focus,
 .btn-flat.active,
