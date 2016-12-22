@@ -51,10 +51,10 @@ author:
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   projectHistory:
     - project1:
-      name: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      company: Java Developer
-      started: 2014
+      name: Appboy 기술영업 및 고객 지원 
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2016.02
       duration: (2014 - Present)
       description: 이미지 얼굴인식 (MS FaceApi), 실시간 로그 수집(ELK, AWS), 모니터링 시스템 (Logstash), 모바일 쿠폰 서비스, T-AR (Android) 
     - project2:
@@ -83,17 +83,20 @@ author:
 #      proficiency: Limit
   companyHistory:
     - company1:
-      name: 미디어로그
+      name: 미디어로그 (데이콤멀티미디어인터넷)
       proficiency: 2015.04 - 2016.12
     - company2:
-      name: 관동대학교  경제학과
-      proficiency: 졸업
-    - company2:
-      name: 관동대학교  경제학과
-      proficiency: 졸업
-    - company2:
-      name: 관동대학교  경제학과
-      proficiency: 졸업
+      name: 포위드닷컴
+      proficiency: 2013.05 - 2014.10
+    - company3:
+      name: PNPSOFT (NSOFT 모바일 자회사)
+      proficiency: 2011.02 - 2011.11
+    - company4:
+      name: NSOFT (한국 지사)
+      proficiency: 2010.02 - 2011.01
+    - company5:
+      name: NSOFT (일본 본사)
+      proficiency: 2007.09 - 2010.01
   certificates:
     - certificate1:
       name: 정보처리기사
