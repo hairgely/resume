@@ -49,6 +49,28 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  projectHistory:
+    - project1:
+      name: Finzsoft Solutions Ltd
+      location: Auckland, New Zealand
+      company: Java Developer
+      started: 2014
+      duration: (2014 - Present)
+      description: 이미지 얼굴인식 (MS FaceApi), 실시간 로그 수집(ELK, AWS), 모니터링 시스템 (Logstash), 모바일 쿠폰 서비스, T-AR (Android) 
+    - project2:
+      name: Agfa HealthCare
+      location: Shanghai, China
+      company: Java Developer
+      started: 2012
+      duration: (2012 - 2014)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - project3:
+      name: Citigroup Services and Technology (China) Limited
+      location: Shanghai, China
+      company: Java Developer
+      started: 2009
+      duration: (2009 - 2012)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
 #  languages:
 #    - language1:
 #      name: Chinese
@@ -81,7 +103,7 @@ author:
       proficiency:  2014
   academicAbility:
     - academy1:
-      name: 동국대학교 대학원 컴퓨터 공학과
+      name: 동국대학교  컴퓨터공학 대학원
       proficiency: 수료
     - academy2:
       name: 관동대학교  경제학과
