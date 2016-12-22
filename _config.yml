@@ -80,10 +80,10 @@ author:
       name: 빅데이터 분석을 위한 R 프로그래밍 (SKT T아카데미)
       proficiency:  2014
   academicAbility:
-    - education1:
+    - academy1:
       name: 동국대학교 대학원 컴퓨터 공학과
       proficiency: 수료
-    - education2:
+    - academy2:
       name: 관동대학교  경제학과
       proficiency: 졸업
   programmingSkills:
