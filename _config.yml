@@ -54,23 +54,79 @@ author:
       name: Appboy 기술영업 및 고객 지원 
       location: Seoul, Korea
       company: 미디어로그
-      started: 2016.02
-      duration: (2014 - Present)
-      description: 이미지 얼굴인식 (MS FaceApi), 실시간 로그 수집(ELK, AWS), 모니터링 시스템 (Logstash), 모바일 쿠폰 서비스, T-AR (Android) 
+      started: 2016
+      duration: (2016.02 - 2016.12)
+      description: 모바일 광고 자동화 솔루션 
     - project2:
-      name: Agfa HealthCare
-      location: Shanghai, China
-      company: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      name: O2O 출장세차 
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.09 - 2015.11)
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery
     - project3:
-      name: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      company: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      name: 추천시스템(프로토타입)
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.09 - 2015.11)
+      description: Apache Spark, Fluentd, Embulk, Logstash, Elasticsearch, Scala, AWS 
+    - project4:
+      name: 오픈가든
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.06 - 2015.10)
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery  
+    - project5:
+      name: 만화1번지 - 검색서버
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.04 - 2016.12)
+      description: Apache Solr, Fruentd, Mysql 
+    - project6:
+      name: 만화1번지 - 정산, 통계 서버
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.04 - 2016.12)
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch
+    - project7:
+      name: 만화1번지 - Front, CMS 유지보수
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.04 - 2016.12)
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, 
+    - project8:
+      name: 만화1번지 - Android
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.04 - 2016.12)
+      description: Android
+    - project9:
+      name: 기타 프로젝트(프로토타입)
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.04 - 2016.12)
+      description: 이미지 얼굴인식 (MS FaceApi), 실시간 로그 수집(ELK, AWS), 모니터링 시스템 (Logstash), 모바일 쿠폰 서비스, T-AR (Android)
+    - project3:
+      name: 추천시스템(프로토타입)
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.09 - 2015.11)
+      description: Apache Spark, Fluentd, Embulk, Logstash, Elasticsearch, Scala, AWS 
+    - project3:
+      name: 추천시스템(프로토타입)
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2015
+      duration: (2015.09 - 2015.11)
+      description: Apache Spark, Fluentd, Embulk, Logstash, Elasticsearch, Scala, AWS 
 #  languages:
 #    - language1:
 #      name: Chinese
