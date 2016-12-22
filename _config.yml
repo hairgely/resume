@@ -84,7 +84,7 @@ author:
       company: 미디어로그
       started: 2015
       duration: (2015.04 - 2016.12)
-      description: 검색서버 - Apache Solr, Fruentd, Mysql\n 정산, 통계 서버 - Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch\n Front, CMS - Spring, MyBatis, MariaDB, Java, JSP, Jquery\n Android 
+      description: 검색서버 - Apache Solr, Fruentd, Mysql<br/> 정산, 통계 서버 - Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch<br/> Front, CMS - Spring, MyBatis, MariaDB, Java, JSP, Jquery<br/> Android 
     - project9:
       name: 기타 프로젝트(프로토타입)
       location: Seoul, Korea
