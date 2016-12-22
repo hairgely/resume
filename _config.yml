@@ -27,28 +27,28 @@ author:
   gavatar: /resumecard/assets/img/share-972389_960_720.png
   stackoverflow:
 #  stackoverflow: 4582127
-  workHistory:
-    - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+#  workHistory:
+#    - work1:
+#      company: Finzsoft Solutions Ltd
+#      location: Auckland, New Zealand
+#      title: Java Developer
+#      started: 2014
+#      duration: (2014 - Present)
+#      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+#    - work2:
+#      company: Agfa HealthCare
+#      location: Shanghai, China
+#      title: Java Developer
+#      started: 2012
+#      duration: (2012 - 2014)
+#      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+#    - work3:
+#      company: Citigroup Services and Technology (China) Limited
+#      location: Shanghai, China
+#      title: Java Developer
+#      started: 2009
+#      duration: (2009 - 2012)
+#      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   projectHistory:
     - project1:
       name: Finzsoft Solutions Ltd
@@ -81,6 +81,19 @@ author:
 #    - language3:
 #      name: Japanese
 #      proficiency: Limit
+  companyHistory:
+    - company1:
+      name: 미디어로그
+      proficiency: 2015.04 - 2016.12
+    - company2:
+      name: 관동대학교  경제학과
+      proficiency: 졸업
+    - company2:
+      name: 관동대학교  경제학과
+      proficiency: 졸업
+    - company2:
+      name: 관동대학교  경제학과
+      proficiency: 졸업
   certificates:
     - certificate1:
       name: 정보처리기사
