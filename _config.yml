@@ -49,16 +49,16 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
-    - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
-      name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+#  languages:
+#    - language1:
+#      name: Chinese
+#      proficiency: Native
+#    - language2:
+#      name: English
+#      proficiency: Professional
+#    - language3:
+#      name: Japanese
+#      proficiency: Limit
   certificates:
     - certificate1:
       name: 정보처리기사
