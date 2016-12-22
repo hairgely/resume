@@ -79,33 +79,12 @@ author:
       duration: (2015.06 - 2015.10)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery  
     - project5:
-      name: 만화1번지 - 검색서버
+      name: 만화1번지
       location: Seoul, Korea
       company: 미디어로그
       started: 2015
       duration: (2015.04 - 2016.12)
-      description: Apache Solr, Fruentd, Mysql 
-    - project6:
-      name: 만화1번지 - 정산, 통계 서버
-      location: Seoul, Korea
-      company: 미디어로그
-      started: 2015
-      duration: (2015.04 - 2016.12)
-      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch
-    - project7:
-      name: 만화1번지 - Front, CMS 유지보수
-      location: Seoul, Korea
-      company: 미디어로그
-      started: 2015
-      duration: (2015.04 - 2016.12)
-      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, 
-    - project8:
-      name: 만화1번지 - Android
-      location: Seoul, Korea
-      company: 미디어로그
-      started: 2015
-      duration: (2015.04 - 2016.12)
-      description: Android
+      description: 검색서버 - Apache Solr, Fruentd, Mysql\n 정산, 통계 서버 - Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch\n Front, CMS - Spring, MyBatis, MariaDB, Java, JSP, Jquery\n Android 
     - project9:
       name: 기타 프로젝트(프로토타입)
       location: Seoul, Korea
