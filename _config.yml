@@ -57,6 +57,41 @@ author:
       started: 2016
       duration: (2016.02 - 2016.12)
       description: 모바일 광고 자동화 솔루션 
+    - project11:
+      name: 모바일 쿠폰 사이트 
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2016
+      duration: (2016.12 - 2016.12)
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery 
+    - project12:
+      name: 방송 서버 모니터링 시스템 
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2016
+      duration: (2016.08 - 2016.11)
+      description: Logstash, Spring, MyBatis, Oracle, Java, JSP, Jquery 
+    - project13:
+      name: 이미지 얼굴인식 (프로토타입)
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2016
+      duration: (2016.06 - 2016.07)
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, MS FaceApi
+    - project14:
+      name: T-AR (프로토타입)
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2016
+      duration: (2016.06 - 2016.07)
+      description: Android
+    - project14:
+      name: ELK (프로토타입)
+      location: Seoul, Korea
+      company: 미디어로그
+      started: 2016
+      duration: (2016.06 - 2016.07)
+      description: ElasticSearch, Logstash, Kibana, AWS
     - project2:
       name: O2O 출장세차 
       location: Seoul, Korea
@@ -85,13 +120,6 @@ author:
       started: 2015
       duration: (2015.04 - 2016.12)
       description: 검색서버 - Apache Solr, Fruentd, Mysql<br/> 정산, 통계 서버 - Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch<br/> Front, CMS - Spring, MyBatis, MariaDB, Java, JSP, Jquery<br/> Android 
-    - project9:
-      name: 기타 프로젝트(프로토타입)
-      location: Seoul, Korea
-      company: 미디어로그
-      started: 2015
-      duration: (2015.04 - 2016.12)
-      description: 이미지 얼굴인식 (MS FaceApi), 실시간 로그 수집(ELK, AWS), 모니터링 시스템 (Logstash), 모바일 쿠폰 서비스, T-AR (Android)
     - project92:
       name: 대리운전 관리 시스템
       location: Seoul, Korea
