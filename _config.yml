@@ -60,13 +60,13 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Chinese2
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: 일본어
       proficiency: Limit
   certificates:
     - certificate1:
