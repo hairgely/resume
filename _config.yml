@@ -49,23 +49,6 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  academicAbility:
-    - education1:
-      organization: 동국대학교 대학원
-      location: Seoul, Korea
-      degree: 
-      major: 컴퓨터공학과
-      started: 2011
-      duration: (2011 - 2013)
-      description: 
-    - education2:
-      organization: 관동대학교
-      location: Gangneung, Korea
-      degree: 
-      major: 경제학과
-      started: 2000
-      duration: (2000 - 2006)
-      description: 
   languages:
     - language1:
       name: Chinese
@@ -88,14 +71,21 @@ author:
       proficiency: 2급
   educationHistory:
     - education1:
-      name: AWS 에센셜
-      proficiency: 세종대학교 (2016)
+      name: AWS 에센셜 (세종대학교)
+      proficiency:  2016
     - education2:
-      name: 클라우드 컴퓨팅을 위한 하둡  
-      proficiency: 삼성SDS 멀티캠퍼스 (2014)
+      name: 클라우드 컴퓨팅을 위한 하둡 (삼성SDS 멀티캠퍼스)
+      proficiency:  2014
     - education3:
-      name: 빅데이터 분석을 위한 R 프로그래밍
-      proficiency: SKT T아카데미 (2014)
+      name: 빅데이터 분석을 위한 R 프로그래밍 (SKT T아카데미)
+      proficiency:  2014
+  academicAbility:
+    - education1:
+      name: 동국대학교 대학원 컴퓨터 공학과
+      proficiency: 수료
+    - education2:
+      name: 관동대학교  경제학과
+      proficiency: 졸업
   programmingSkills:
     - skill1:
       name: HTML2
