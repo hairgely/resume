@@ -51,36 +51,69 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+      organization: AWS 에센셜
+      location: 세종대학교
+      degree: 
+      major: 
+      started: 2016
+      duration: 
+      description: 
+    - education2:
+      organization: 클라우드 컴퓨팅을 위한 하둡 
+      location: 삼성SDS 멀티캠퍼스 
+      degree: 
+      major: 
+      started: 2014
+      duration: 
+      description: 
+    - education3:
+      organization: 빅데이터 분석을 위한 R 프로그래밍 
+      location: SKT T아카데미
+      degree: 
+      major: 
+      started: 2014
+      duration: 
+      description: 
+  academicAbility:
+    - education1:
+      organization: 동국대학교 대학원
+      location: Seoul, Korea
+      degree: 
+      major: 컴퓨터공학과
+      started: 2011
+      duration: (2011 - 2013)
+      description: 
+    - education2:
+      organization: 관동대학교
+      location: Gangneung, Korea
+      degree: 
+      major: 경제학과
+      started: 2000
+      duration: (2000 - 2006)
+      description: 
+  certificate:
     - language1:
-      name: Chinese
-      proficiency: Native
+      name: 정보처리기사
+      proficiency: 기사
     - language2:
-      name: English
-      proficiency: Professional
+      name: 컴퓨터활용능력
+      proficiency: 2급
     - language3:
-      name: Japanese
-      proficiency: Limit
-  programmingSkills:
-    - skill1:
-      name: HTML2
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
-      percentage: 90%
-    - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: JLPT
+      proficiency: 2급
+#  programmingSkills:
+#    - skill1:
+#      name: HTML
+#      percentage: 100%
+#    - skill2:
+#      name: Bootstrap
+#      percentage: 90%
+#    - skill3:
+#      name: JavaScript
+#      percentage: 70%
+#    - skill4:
+#      name: AngularJS
+#      percentage: 70%
+#    - skill5:
+#      name: Java/Java EE
+#      percentage: 90%
