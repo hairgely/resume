@@ -51,18 +51,25 @@ author:
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   projectHistory:
     - project1:
-      name: Appboy 기술영업 및 고객 지원 
+      name: Appboy 기술영업 및 고객 지원
       location: Seoul, Korea
-      company: 
-      started: 2016
-      duration: (2016.02 - 2016.12)
-      description: 모바일 광고 자동화 솔루션 
+      company:
+      started: 2017
+      duration: (2016.02 - 2017.12)
+      description: 모바일 광고 자동화 솔루션
+    - project100:
+       name:
+       location: Seoul, Korea
+       company: U+프로야구
+       started: 2017
+       duration: (2016.12 - 2017.03)
+       description: 모바일 광고 자동화 솔루션
     - project11:
       name: 모바일 쿠폰 사이트 
       location: Seoul, Korea
       company: 
-      started: 2016
-      duration: (2016.12 - 2016.12)
+      started: 2017
+      duration: (2016.12 - 2017.01)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery 
     - project12:
       name: 방송 서버 모니터링 시스템 
