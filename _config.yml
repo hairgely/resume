@@ -65,12 +65,12 @@ author:
       duration: (2016.12 - 2017.05)
       description: Spring, MyBatis, MariaDB, Java, JSP, three.js
     - project11:
-      name: 모바일 쿠폰 사이트 
+      name: 모바일 쿠폰 사이트
       location: Seoul, Korea
-      company: 
+      company:
       started: 2017
       duration: (2017.06 - 2017.09)
-      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery 
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery
     - project12:
       name: 방송 서버 모니터링 시스템 
       location: Seoul, Korea
@@ -130,14 +130,14 @@ author:
     - project92:
       name: 대리운전 관리 시스템
       location: Seoul, Korea
-      company: 아르바이트
+      company:
       started: 2015
       duration: (2015.01 - 2015.03)
       description: Spring, iBatis, MySQL , Java, JSP, Jquery
     - project91:
       name: 콜 센터 모니터링 시스템
       location: Seoul, Korea
-      company: 아르바이트
+      company:
       started: 2014
       duration: (2014.11 - 2014.12)
       description: Spring, iBatis, MySQL , Java, JSP, Jquery
@@ -230,8 +230,8 @@ author:
 #      proficiency: Limit
   companyHistory:
     - company1:
-      name: 현재 직장
-      proficiency: 2015.04 - 2016.12
+      name: 미디어로그(데이콤멀티미디어인터넷)
+      proficiency: 2015.04 - 2017.12
     - company2:
       name: 포위드닷컴
       proficiency: 2013.05 - 2014.10
