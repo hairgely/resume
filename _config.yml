@@ -58,12 +58,12 @@ author:
       duration: (2016.02 - 2017.12)
       description: 모바일 광고 자동화 솔루션
     - project100:
-       name: U+프로야구 하이브리드앱
+       name: U+프로야구 PTS
        location: Seoul, Korea
        company:
        started: 2017
        duration: (2016.12 - 2017.03)
-       description: 모바일 광고 자동화 솔루션
+       description: Spring, MyBatis, MariaDB, Java, JSP, three.js
     - project11:
       name: 모바일 쿠폰 사이트 
       location: Seoul, Korea
@@ -79,21 +79,21 @@ author:
       duration: (2016.08 - 2016.11)
       description: Logstash, Spring, MyBatis, Oracle, Java, JSP, Jquery 
     - project13:
-      name: 이미지 얼굴인식 (prototype)
+      name: 이미지 얼굴인식(MS FaceAPI)
       location: Seoul, Korea
       company: 
       started: 2016
-      duration: (2016.06 - 2016.07)
+      duration: (2016.08 - 2016.09)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, MS FaceApi
     - project14:
-      name: T-AR (prototype)
+      name: 증강현실(T-AR)
       location: Seoul, Korea
       company: 
       started: 2016
-      duration: (2016.06 - 2016.07)
-      description: Android
+      duration: (2016.07 - 2016.08)
+      description: Android, T-AR
     - project14:
-      name: ELK (prototype)
+      name: 실시간 로그 수집(ELK)
       location: Seoul, Korea
       company: 
       started: 2016
@@ -107,7 +107,7 @@ author:
       duration: (2015.09 - 2015.11)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery
     - project3:
-      name: 추천시스템(prototype)
+      name: 추천시스템
       location: Seoul, Korea
       company: 
       started: 2015
