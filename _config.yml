@@ -56,21 +56,21 @@ author:
       company:
       started: 2022
       duration: (2022.01 - )
-      description: Go, Spring, Kotlin, Redis, MongoDB, ECS, Nginx, Cloudfront
+      description: Go, Spring, Kotlin, Redis, MongoDB, Nginx, ECS, Cloudfront
     - project112:
-      name: 자유여행 일정 자동 생성 서비스
+      name: 자유여행 일정 자동 생성 서비스 백엔드 API 개발
       location: Seoul, Korea
       company:
       started: 2019
       duration: (2019.07 - 2021.12)
-      description: 일정 자동 생성
+      description: Spring, Java, Mysql, Redis
     - project111:
       name: 표준지역체계
       location: Seoul, Korea
       company:
       started: 2018
       duration: (2018.07 - 2019.12)
-      description: 여행 지역 표준 생성
+      description: python, PostgreSQL, ElasticSearch, Logstash
     - project1:
       name: Appboy 기술영업 및 고객 지원
       location: Seoul, Korea
