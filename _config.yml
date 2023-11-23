@@ -72,61 +72,61 @@ author:
       duration: (2016.12 - 2017.01)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery
     - project12:
-      name: 방송 서버 모니터링 시스템 
+      name: 방송 서버 모니터링 시스템
       location: Seoul, Korea
-      company: 
+      company:
       started: 2016
       duration: (2016.08 - 2016.11)
-      description: Logstash, Spring, MyBatis, Oracle, Java, JSP, Jquery 
+      description: Logstash, Spring, MyBatis, Oracle, Java, JSP, Jquery
     - project13:
       name: 이미지 얼굴인식(MS FaceAPI)
       location: Seoul, Korea
-      company: 
+      company:
       started: 2016
       duration: (2016.08 - 2016.09)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery, MS FaceApi
     - project14:
       name: 증강현실(T-AR)
       location: Seoul, Korea
-      company: 
+      company:
       started: 2016
       duration: (2016.07 - 2016.08)
       description: Android, T-AR
     - project14:
       name: 실시간 로그 수집(ELK)
       location: Seoul, Korea
-      company: 
+      company:
       started: 2016
       duration: (2016.06 - 2016.07)
       description: ElasticSearch, Logstash, Kibana, AWS
     - project2:
-      name: O2O 출장세차 
+      name: O2O 출장세차
       location: Seoul, Korea
-      company: 
+      company:
       started: 2015
       duration: (2015.09 - 2015.11)
       description: Spring, MyBatis, MariaDB, Java, JSP, Jquery
     - project3:
       name: 추천시스템
       location: Seoul, Korea
-      company: 
+      company:
       started: 2015
       duration: (2015.09 - 2015.11)
-      description: Apache Spark, Fluentd, Embulk, Logstash, Elasticsearch, Scala, AWS 
+      description: Apache Spark, Fluentd, Embulk, Logstash, Elasticsearch, Scala, AWS
     - project4:
       name: 오픈가든
       location: Seoul, Korea
-      company: 
+      company:
       started: 2015
       duration: (2015.06 - 2015.10)
-      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery  
+      description: Spring, MyBatis, MariaDB, Java, JSP, Jquery
     - project5:
       name: 만화
       location: Seoul, Korea
-      company: 
+      company:
       started: 2015
       duration: (2015.04 - 2016.12)
-      description: 검색서버 - Apache Solr, Fruentd, Mysql<br/> 정산, 통계 서버 - Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch<br/> Front, CMS - Spring, MyBatis, MariaDB, Java, JSP, Jquery<br/> Android 
+      description: 검색서버 - Apache Solr, Fruentd, Mysql<br/> 정산, 통계 서버 - Spring, MyBatis, MariaDB, Java, JSP, Jquery, Batch<br/> Front, CMS - Spring, MyBatis, MariaDB, Java, JSP, Jquery<br/> Android
     - project92:
       name: 대리운전 관리 시스템
       location: Seoul, Korea
@@ -147,77 +147,77 @@ author:
       company: 포위드닷컴
       started: 2014
       duration: (2014.03 - 2014.10)
-      description: Spring, MyBatis, MS-SQL, HTML5, Tomcat , JAVA, JSP, Jquery  
+      description: Spring, MyBatis, MS-SQL, HTML5, Tomcat , JAVA, JSP, Jquery
     - project11:
       name: 검색 솔루션 (1인 개발)
       location: Seoul, Korea
       company: 포위드닷컴
       started: 2014
       duration: (2014.02 - 2014.02)
-      description: Apache Lucene, Apache TiKa , Spring, Java, JSP, Jquery, Spring Batch 
+      description: Apache Lucene, Apache TiKa , Spring, Java, JSP, Jquery, Spring Batch
     - project12:
-      name: 상품 추천 솔루션 (1인 개발) 
+      name: 상품 추천 솔루션 (1인 개발)
       location: Seoul, Korea
       company: 포위드닷컴
       started: 2013
       duration: (2013.11 - 2014.05)
       description: Apache Cassandra, Apache Mahout, Hector, Spring, Java, JSP, Jquery, Spring, MyBatis, MariaDB, Spring Batch
     - project13:
-      name: 문서 표절 검사 솔루션 (1인 개발) 
+      name: 문서 표절 검사 솔루션 (1인 개발)
       location: Seoul, Korea
       company: 포위드닷컴
       started: 2013
       duration: (2013.05 - 2014.10)
-      description: Apache Lucene, Apache Tika, Spring, Java, JSP, Jquery, Spring, MyBatis, MS-SQL, Spring Batch 
+      description: Apache Lucene, Apache Tika, Spring, Java, JSP, Jquery, Spring, MyBatis, MS-SQL, Spring Batch
     - project141:
-      name: 헬스케어 
+      name: 헬스케어
       location: Seoul, Korea
       company: 피앤피소프트
       started: 2012
       duration: (2012.01 - 2012.04)
       description: Android
     - project14:
-      name: Android 프로젝트 
+      name: Android 프로젝트
       location: Seoul, Korea
       company: 피앤피소프트
       started: 2011
       duration: (2011.02 - 2011.11)
-      description: Pen Touch TV 매뉴얼, 항공기 결제(직원 내부용), 단말기 정보 수집 모듈, 포토잉글리쉬, 위픽보카,트렌드온 
+      description: Pen Touch TV 매뉴얼, 항공기 결제(직원 내부용), 단말기 정보 수집 모듈, 포토잉글리쉬, 위픽보카,트렌드온
     - project15:
-      name: 일정관리 및 수업 보조 시스템 
+      name: 일정관리 및 수업 보조 시스템
       location: Seoul, Korea
       company: NSOFT
       started: 2010
       duration: (2010.10 - 2011.01)
-      description: Spring, iBatis, MySQL , Java, JSP, Jquery 
+      description: Spring, iBatis, MySQL , Java, JSP, Jquery
     - project16:
       name: 발전기 데이터 수집 모니터링 시스템
       location: Seoul, Korea
       company: NSOFT
       started: 2010
       duration: (2010.03 - 2010.11)
-      description: GAUCE(X-internet), Spring, Java, JSP, MS-SQL 
+      description: GAUCE(X-internet), Spring, Java, JSP, MS-SQL
     - project17:
-      name: 가계부 및 일정 관리 시스템 
+      name: 가계부 및 일정 관리 시스템
       location: Tokyo, Japan
       company: NSOFT
       started: 2009
       duration: (2009.05 - 2010.02)
-      description: Spring, Hibernate, My-SQL, Java, JSP, Jquery 
+      description: Spring, Hibernate, My-SQL, Java, JSP, Jquery
     - project18:
-      name: 그룹사 입출고 및 전자결재 관리 시스템 
+      name: 그룹사 입출고 및 전자결재 관리 시스템
       location: Tokyo, Japan
       company: NSOFT
       started: 2008
       duration: (2008.01 - 2009.04)
       description: Meldandy, Java, JSP, Hibernate, Oracle
     - project19:
-      name: 자동차 부품 관리시스템  
+      name: 자동차 부품 관리시스템
       location: Tokyo, Japan
       company: NSOFT
       started: 2007
       duration: (2007.10 - 2007.12)
-      description: Spring, Struts, iBatis, Websphere, DB2, Java, JSP 
+      description: Spring, Struts, iBatis, Websphere, DB2, Java, JSP
 #  languages:
 #    - language1:
 #      name: Chinese
@@ -230,18 +230,21 @@ author:
 #      proficiency: Limit
   companyHistory:
     - company1:
+      name: 인터파크
+      proficiency: 2018.07 -
+    - company2:
       name: 미디어로그(데이콤멀티미디어인터넷)
       proficiency: 2015.04 - 2017.12
-    - company2:
+    - company3:
       name: 포위드닷컴
       proficiency: 2013.05 - 2014.10
-    - company3:
+    - company4:
       name: PNPSOFT (NSOFT 모바일 자회사)
       proficiency: 2011.02 - 2011.11
-    - company4:
+    - company5:
       name: NSOFT (한국 지사)
       proficiency: 2010.02 - 2011.01
-    - company5:
+    - company6:
       name: NSOFT (일본 본사)
       proficiency: 2007.09 - 2010.01
   certificates:
@@ -249,7 +252,7 @@ author:
       name: 정보처리기사
       proficiency: 기사
     - certificate2:
-      name: 컴퓨터활용능력 
+      name: 컴퓨터활용능력
       proficiency: 2급
     - certificate3:
       name: JLPT
